@@ -22,7 +22,6 @@ const ENABLE_THINKING_MODE = false; // Set to true to enable chat_template_kwarg
 
 // Model mapping (adjust based on available NIM models)
 const MODEL_MAPPING = {
-  'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking',
   'deepseek-3.2' : 'deepseek-ai/deepseek-v3.2',
 };
 
