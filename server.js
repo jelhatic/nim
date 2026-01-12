@@ -26,6 +26,7 @@ const ENABLE_THINKING_MODE = false; // Set to true to enable chat_template_kwarg
 const MODEL_MAPPING = {
   'deepseek-3.2' : 'deepseek-ai/deepseek-v3.2',
   'glm-4.7': 'glm-4.7',
+  'kimi-k2' : 'moonshotai/kimi-k2-thinking',
 };
 
 // Health check endpoint
