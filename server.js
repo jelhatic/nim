@@ -28,6 +28,7 @@ const MODEL_MAPPING = {
   'glm-4.7': 'glm-4.7',
   'kimi-k2' : 'moonshotai/kimi-k2-thinking',
   'qwen/qwen3-coder-480b-a35b-instruct' : 'qwen/qwen3-coder-480b-a35b-instruct',
+  'kimi-k2-instruct' : 'moonshotai/kimi-k2-instruct-0905',
 };
 
 // Health check endpoint
