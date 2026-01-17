@@ -25,7 +25,7 @@ const ENABLE_THINKING_MODE = false; // Set to true to enable chat_template_kwarg
 // Model mapping (adjust based on available NIM models)
 const MODEL_MAPPING = {
   'deepseek-3.2' : 'deepseek-ai/deepseek-v3.2',
-  'glm-4.7': 'glm-4.7',
+  'glm-4.7': 'z-ai/glm4.7',
   'kimi-k2' : 'moonshotai/kimi-k2-thinking',
   'qwen/qwen3-coder-480b-a35b-instruct' : 'qwen/qwen3-coder-480b-a35b-instruct',
   'kimi-k2-instruct' : 'moonshotai/kimi-k2-instruct-0905',
